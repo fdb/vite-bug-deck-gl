@@ -1,0 +1,17 @@
+{
+  "name": "vite-test-deck-gl",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.0.1"
+  },
+  "dependencies": {
+    "@deck.gl/core": "8.4.9",
+    "@deck.gl/layers": "8.4.9",
+    "deck.gl": "8.4.9"
+  }
+}
